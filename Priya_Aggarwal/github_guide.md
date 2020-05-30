@@ -81,8 +81,8 @@ After cloning is done we will make our project and store it in a folder.
 Now you have to make a PR. PR stands for the pull request. To understand PR first we have to
 understand the concept of branching.
 
-**Branching**
-When we create a repository, then the main linear list of 
+**Branching**<br>
+>When we create a repository, then the main linear list of 
 commits is on the master branch. We can makes changes in master as well 
 as in a new branch. All the branches are independent of each other. 
 After editing we can commit the changes in the branch directly or create 
@@ -103,7 +103,7 @@ a new branch. <br>
 >2. git checkout branch_name (This will et you to the branch you have created above)<br>
 >3. git push origin branch_name (You have finally pushed your branch and project)<br>
 
-If you want to contribute in the existing repository then fork that repository first and 
+>>If you want to contribute in the existing repository then fork that repository first and 
 do some changes in the repository's any section even if you change documentation of 
 that repository's code and you think it should be in the master repository of the main repository 
 then a pull request it to the main repository so that master can see and made changes to the 
@@ -120,7 +120,7 @@ and review it before the changes are merged into the main brach. <br>
 >5. To create a pull request that is ready for review, click Create Pull Request.<br>
 
 **Issue**<br>
-### Issues can be used to keep track of bugs or other requests.<br>
+Issues can be used to keep track of bugs or other requests.<br>
 Steps to create an issue:-<br>
 >1. Go to your main repository<br>
 >2. Click issue<br>
@@ -129,7 +129,7 @@ Steps to create an issue:-<br>
 >5. Write a title and description of your issue.<br>
 >6. Add labels, assign to someone, and click Submit new issue.<br>
 
-After the PR is accepted we have to finally do one last step ie called merge.
+>>After the PR is accepted we have to finally do one last step ie called merge.
 We have a merge conflict which when git it is unable to automatically resolve the differences 
 in the code by itself between two commits. When there is a conflict git 
 doesn’t know which code to keep and which to discard. For eg if there are 
