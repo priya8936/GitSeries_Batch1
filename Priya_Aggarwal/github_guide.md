@@ -1,14 +1,14 @@
 # Complete guide about git and GitHub.📔
 ------------------------------------------------------------------------------
-**1. What exactly do u mean by Git and Github?**
- Git is a popular control system which is installed and it maintains all your 
+**What exactly do u mean by Git and Github?**
+ >**Git** is a popular control system which is installed and it maintains all your 
 local system and gives you a self-contained record if your ongoing programming 
 versions. Git is easy to learn and has a tiny footprint with lightning-fast 
-performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase 
+performance.<br> It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase 
 with features like cheap local branching, convenient staging areas, and 
 multiple workflows. Git is written in CC, Perl, Tcl, Python. The original author is
 Linus Torvalds. The best part about Git is that you don't need an internet connection to 
-access it and it is free of cost and easy to use. 
+access it and it is free of cost and easy to use. <br>
 GitHub is designed as a Gut repository hosting service. Git repository hosting is 
 an online database that allows you to keep track of your work and shares your 
 Git projects outside the local server. It is popular for open source projects. 
@@ -18,27 +18,27 @@ It was founded in 2008 and the CEO of GitHub is Nat Friedman. Github is written
 in Ruby. Github has a total of 40 million users by Aug 2019. Founder of GitHub is
 Tom Preston-Werner, P.J Hyett, Chris Wanstranth, Scott Chacon.
 
-**2. Why Github is so popular in most of the projects?**
-The Largest shared repository- Pushing the project to a shared, public repository
+**Why Github is so popular in most of the projects?**
+>The Largest shared repository- Pushing the project to a shared, public repository
 makes it instantly discoverable for those 28M users.
 Easy Version Control- It tracks all the changes made to your code and who makes them.
 Immensely Powerful Community-itHub is an open-source platform, and the community is
-that fills it up.
+that fills it up.<br>
 Secure Cloud storage-The platforms protect all your data for you: protects code branches, 
-verifies commit signing, controls access. 
-**Some other platforms which can be used instead of GitHub are as follows:-**
-a.GitLab
-b.Google cloud source repositories 
-c.AWS Code commits 
-d.Apache Allura 
+verifies commit signing, controls access. <br>
+### Some other platforms which can be used instead of GitHub are as follows:-
+>a.GitLab<br>
+b.Google cloud source repositories <br>
+c.AWS Code commits <br>
+d.Apache Allura <br>
 
-**3. How git workflow works? What are the different stages of a git 
-the project as commit, add?**
-Ans. Git workflow has a total of four major stages as mentioned below:-
-1. Working directory - Workspace.
-2. Index ie stage
-3. Local Repository ie Head
-4. Remote Repository
+**How git workflow works? What are the different stages of a git 
+the project as commit, add?**<br>
+>Git workflow has a total of four major stages as mentioned below:-<br>
+>1. Working directory - Workspace.<br>
+>2. Index ie stage<br>
+>3. Local Repository ie Head<br>
+>4. Remote Repository<br>
 GitHub is essential, a pretty representation of the work of many 
 software all together called 'Git'. Git works by keeping track of all the changes that 
 you do to any files within a particular folder. This is essentially, no 
