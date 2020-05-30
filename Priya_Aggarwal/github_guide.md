@@ -151,9 +151,13 @@ I hope this guide will direct you easily and you can have a look at my GitHub
 https://github.com/priya8936**
 
 Enjoy..!! 
+
 Github is fun to use and I would like to thank my mentors in guided me 
 through this whole process.
+
 Thank you
+
 Regards
+
 Priya Aggarwal
 
